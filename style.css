@@ -1,0 +1,10 @@
+body{font-family:arial;}
+.text{font-family: verdana;font-size: 12px;}
+.text1{font-family: verdana;font-size: 14px;color:red;}
+.label{font-family: verdana;font-weight:bolder;font-size: 14px;}
+.link{display:block;color:White;background-color:#9D4D77;text-decoration:none;text-align: center;}
+.link:hover{color:#9D4D77;background-color:white;}
+input{width:200px;}
+textarea{width:200px;}
+.txt{width: 200px;height:30px;}
+.btn{width: 120px;height:30px;}
